@@ -1,0 +1,464 @@
+batting_score,not_out,wickets,runs_conceded,catches,opposition,ground,date,year,month,day,match_result,result_margin,chase,toss,batting_innings
+0,Out,0,0,0,Pakistan,Gujranwala,1989-12-18,1989,12,18,lost,7,Defended,won,2nd
+0,Out,0,0,0,New Zealand,Dunedin,1990-03-01,1990,3,1,lost,108,Defended,won,2nd
+36,Out,0,0,0,New Zealand,Wellington,1990-03-06,1990,3,6,won,1,Defended,won,1st
+10,Out,0,0,1,Sri Lanka,Sharjah,1990-04-25,1990,4,25,lost,3,Chased,lost,1st
+20,Out,0,0,0,Pakistan,Sharjah,1990-04-27,1990,4,27,lost,26,Defended,won,2nd
+19,Out,0,0,0,England,Leeds,1990-07-18,1990,7,18,won,6,Chased,won,2nd
+31,Out,0,10,0,England,Nottingham,1990-07-20,1990,7,20,won,5,Chased,won,2nd
+36,Out,0,0,0,Sri Lanka,Nagpur,1990-12-01,1990,12,1,won,19,Defended,lost,1st
+53,Out,2,39,2,Sri Lanka,Pune,1990-12-05,1990,12,5,won,6,Chased,won,2nd
+30,Out,0,0,0,Sri Lanka,Margao,1990-12-08,1990,12,8,lost,7,Chased,won,1st
+0,Out,0,15,0,Bangladesh,Chandigarh,1990-12-25,1990,12,25,won,9,Chased,lost,2nd
+4,Out,0,0,0,Sri Lanka,Cuttack,1990-12-28,1990,12,28,lost,36,Defended,lost,2nd
+53,Out,0,0,0,Sri Lanka,Kolkata,1991-01-04,1991,1,4,won,7,Chased,won,2nd
+52,Not Out,0,0,0,Pakistan,Sharjah,1991-10-18,1991,10,18,won,60,Defended,won,1st
+22,Out,0,0,0,West Indies,Sharjah,1991-10-19,1991,10,19,won,19,Defended,lost,1st
+11,Not Out,4,34,0,West Indies,Sharjah,1991-10-22,1991,10,22,won,7,Chased,won,2nd
+49,Out,0,20,1,Pakistan,Sharjah,1991-10-23,1991,10,23,lost,4,Defended,lost,2nd
+0,Out,0,24,0,Pakistan,Sharjah,1991-10-25,1991,10,25,lost,72,Defended,won,2nd
+62,Out,1,27,0,South Africa,Kolkata,1991-11-10,1991,11,10,won,3,Chased,won,2nd
+4,Out,0,31,0,South Africa,Gwalior,1991-11-12,1991,11,12,won,38,Defended,lost,1st
+1,Out,0,38,0,South Africa,New Delhi,1991-11-14,1991,11,14,lost,8,Chased,won,1st
+1,Out,1,5,0,West Indies,Perth,1991-12-06,1991,12,6,tied,0,Defended,lost,1st
+36,Out,0,8,1,Australia,Perth,1991-12-08,1991,12,8,won,107,Defended,won,1st
+57,Out,0,0,1,Australia,Hobart,1991-12-10,1991,12,10,lost,8,Chased,won,1st
+48,Out,0,10,0,West Indies,Adelaide,1991-12-14,1991,12,14,won,10,Defended,won,1st
+21,Out,0,3,1,Australia,Adelaide,1991-12-15,1991,12,15,lost,6,Chased,won,1st
+77,Out,0,27,0,West Indies,Brisbane,1992-01-11,1992,1,11,lost,6,Chased,won,1st
+31,Out,0,14,0,Australia,Sydney,1992-01-14,1992,1,14,lost,9,Chased,won,1st
+57,Not Out,0,38,0,West Indies,Melbourne,1992-01-16,1992,1,16,won,5,Chased,lost,2nd
+4,Out,1,29,0,Australia,Melbourne,1992-01-18,1992,1,18,lost,88,Defended,lost,2nd
+69,Out,0,18,1,Australia,Sydney,1992-01-20,1992,1,20,lost,6,Defended,lost,2nd
+35,Out,0,37,1,England,Perth,1992-02-22,1992,2,22,lost,9,Defended,lost,2nd
+0,Out,0,0,0,Sri Lanka,Mackay,1992-02-28,1992,2,28,n/r,0,Defended,lost,1st
+11,Out,0,29,0,Australia,Brisbane,1992-03-01,1992,3,1,lost,1,Defended,lost,2nd
+54,Not Out,1,37,0,Pakistan,Sydney,1992-03-04,1992,3,4,won,43,Defended,won,1st
+81,Out,1,35,0,Zimbabwe,Hamilton,1992-03-07,1992,3,7,won,55,Defended,won,1st
+4,Out,0,20,1,West Indies,Wellington,1992-03-10,1992,3,10,lost,5,Chased,won,1st
+84,Out,0,2,0,New Zealand,Dunedin,1992-03-12,1992,3,12,lost,4,Chased,lost,1st
+14,Out,0,20,0,South Africa,Adelaide,1992-03-15,1992,3,15,lost,6,Chased,lost,1st
+39,Out,0,16,0,Zimbabwe,Harare,1992-10-25,1992,10,25,won,30,Defended,lost,1st
+15,Out,1,25,1,South Africa,Cape Town,1992-12-07,1992,12,7,lost,6,Chased,won,1st
+10,Out,0,18,0,South Africa,Port Elizabeth,1992-12-09,1992,12,9,lost,6,Chased,won,1st
+22,Out,0,16,0,South Africa,Centurion,1992-12-11,1992,12,11,won,4,Chased,won,2nd
+21,Out,0,4,0,South Africa,Johannesburg,1992-12-13,1992,12,13,lost,6,Chased,lost,1st
+32,Out,0,27,0,South Africa,Bloemfontein,1992-12-15,1992,12,15,lost,8,Chased,lost,1st
+23,Out,0,0,0,South Africa,Durban,1992-12-17,1992,12,17,lost,39,Defended,won,2nd
+21,Out,0,0,1,South Africa,East London,1992-12-19,1992,12,19,won,5,Chased,won,2nd
+82,Not Out,0,0,0,England,Jaipur,1993-01-18,1993,1,18,lost,4,Chased,lost,1st
+1,Out,0,16,1,England,Chandigarh,1993-01-21,1993,1,21,won,5,Chased,won,2nd
+3,Out,0,0,1,England,Bangalore,1993-02-26,1993,2,26,lost,48,Defended,won,2nd
+24,Out,0,0,0,England,Jamshedpur,1993-03-01,1993,3,1,lost,6,Chased,lost,1st
+5,Out,0,0,0,England,Gwalior,1993-03-04,1993,3,4,won,3,Chased,won,2nd
+34,Out,0,0,0,England,Gwalior,1993-03-05,1993,3,5,won,4,Chased,won,2nd
+3,Out,1,6,0,Zimbabwe,Faridabad,1993-03-19,1993,3,19,won,67,Defended,lost,1st
+8,Not Out,0,0,0,Zimbabwe,Guwahati,1993-03-22,1993,3,22,won,7,Chased,won,2nd
+0,Out,0,30,0,Zimbabwe,Pune,1993-03-25,1993,3,25,won,8,Chased,won,2nd
+21,Out,0,0,0,Sri Lanka,Colombo (RPS),1993-07-25,1993,7,25,won,1,Defended,lost,1st
+15,Out,0,20,1,Sri Lanka,Colombo (RPS),1993-08-12,1993,8,12,lost,8,Defended,won,2nd
+25,Out,0,15,0,Sri Lanka,Moratuwa,1993-08-14,1993,8,14,lost,4,Chased,won,1st
+26,Not Out,1,27,1,Sri Lanka,Kanpur,1993-11-07,1993,11,7,won,7,Chased,won,2nd
+2,Out,0,11,0,West Indies,Ahmedabad,1993-11-16,1993,11,16,lost,69,Defended,lost,2nd
+24,Out,1,48,0,Zimbabwe,Indore,1993-11-18,1993,11,18,tied,0,Defended,lost,1st
+3,Out,0,0,0,South Africa,Mohali,1993-11-22,1993,11,22,won,43,Defended,lost,1st
+15,Out,0,3,0,South Africa,Kolkata,1993-11-24,1993,11,24,won,2,Defended,won,1st
+28,Not Out,1,24,0,West Indies,Kolkata,1993-11-27,1993,11,27,won,102,Defended,lost,1st
+1,Out,3,43,1,Sri Lanka,Rajkot,1994-02-15,1994,2,15,won,8,Defended,lost,1st
+11,Not Out,1,36,1,Sri Lanka,Hyderabad (Deccan),1994-02-18,1994,2,18,won,7,Chased,won,2nd
+52,Out,1,23,0,Sri Lanka,Jalandhar,1994-02-20,1994,2,20,lost,4,Chased,lost,1st
+15,Out,0,37,0,New Zealand,Napier,1994-03-25,1994,3,25,lost,28,Defended,won,2nd
+82,Out,0,0,0,New Zealand,Auckland,1994-03-27,1994,3,27,won,7,Chased,lost,2nd
+63,Out,0,12,0,New Zealand,Wellington,1994-03-30,1994,3,30,won,12,Defended,lost,1st
+40,Out,0,22,0,New Zealand,Christchurch,1994-04-02,1994,4,2,lost,6,Chased,won,1st
+63,Out,0,22,1,U.A.E.,Sharjah,1994-04-13,1994,4,13,won,71,Defended,lost,1st
+73,Out,0,34,0,Pakistan,Sharjah,1994-04-15,1994,4,15,lost,6,Chased,lost,1st
+6,Out,0,39,1,Australia,Sharjah,1994-04-19,1994,4,19,won,7,Chased,lost,2nd
+24,Out,0,45,0,Pakistan,Sharjah,1994-04-22,1994,4,22,lost,39,Defended,won,2nd
+11,Not Out,0,0,0,Sri Lanka,Colombo (RPS),1994-09-04,1994,9,4,n/r,0,Defended,lost,1st
+6,Out,0,21,0,Sri Lanka,Colombo (RPS),1994-09-05,1994,9,5,lost,7,Chased,lost,1st
+110,Out,0,15,0,Australia,Colombo (RPS),1994-09-09,1994,9,9,won,31,Defended,won,1st
+0,Out,0,0,0,Sri Lanka,Colombo (SSC),1994-09-17,1994,9,17,won,6,Chased,won,2nd
+0,Out,0,32,0,West Indies,Faridabad,1994-10-17,1994,10,17,lost,96,Defended,lost,2nd
+0,Out,0,0,1,West Indies,Mumbai,1994-10-20,1994,10,20,won,8,Defended,won,2nd
+8,Out,3,36,1,West Indies,Chennai,1994-10-23,1994,10,23,won,4,Chased,won,2nd
+115,Out,0,27,0,New Zealand,Vadodara,1994-10-28,1994,10,28,won,7,Chased,lost,2nd
+34,Out,2,31,1,West Indies,Kanpur,1994-10-30,1994,10,30,lost,46,Defended,won,2nd
+62,Out,2,29,0,New Zealand,Delhi,1994-11-03,1994,11,3,won,107,Defended,won,1st
+66,Out,1,35,1,West Indies,Kolkata,1994-11-05,1994,11,5,won,72,Defended,lost,1st
+54,Out,1,39,0,West Indies,Visakhapatnam,1994-11-07,1994,11,7,won,4,Defended,lost,1st
+88,Out,0,20,0,West Indies,Cuttack,1994-11-09,1994,11,9,won,8,Chased,lost,2nd
+105,Out,0,31,0,West Indies,Jaipur,1994-11-11,1994,11,11,won,5,Defended,won,1st
+13,Out,0,0,0,New Zealand,Napier,1995-02-16,1995,2,16,lost,4,Chased,lost,1st
+37,Out,0,43,0,South Africa,Hamilton,1995-02-18,1995,2,18,lost,14,Defended,lost,2nd
+47,Out,1,33,1,Australia,Dunedin,1995-02-22,1995,2,22,won,5,Chased,lost,2nd
+48,Out,0,0,0,Bangladesh,Sharjah,1995-04-05,1995,4,5,won,9,Chased,lost,2nd
+4,Out,0,27,2,Pakistan,Sharjah,1995-04-07,1995,4,7,lost,97,Defended,lost,2nd
+112,Not Out,0,0,1,Sri Lanka,Sharjah,1995-04-09,1995,4,9,won,8,Chased,lost,2nd
+41,Out,0,10,0,Sri Lanka,Sharjah,1995-04-14,1995,4,14,won,8,Chased,won,2nd
+30,Out,0,18,0,New Zealand,Jamshedpur,1995-11-15,1995,11,15,lost,8,Chased,lost,1st
+39,Out,1,15,1,New Zealand,Amritsar,1995-11-18,1995,11,18,won,6,Chased,won,2nd
+7,Out,2,49,1,New Zealand,Pune,1995-11-24,1995,11,24,won,5,Chased,won,2nd
+65,Out,0,54,0,New Zealand,Nagpur,1995-11-26,1995,11,26,lost,99,Defended,won,2nd
+1,Out,0,0,0,New Zealand,Mumbai (BS),1995-11-29,1995,11,29,won,6,Chased,won,2nd
+127,Not Out,0,26,0,Kenya,Cuttack,1996-02-18,1996,2,18,won,7,Chased,won,2nd
+70,Out,0,0,0,West Indies,Gwalior,1996-02-21,1996,2,21,won,5,Chased,lost,2nd
+90,Out,0,0,0,Australia,Mumbai,1996-02-27,1996,2,27,lost,16,Defended,lost,2nd
+137,Out,0,41,0,Sri Lanka,Delhi,1996-03-02,1996,3,2,lost,6,Chased,lost,1st
+3,Out,0,23,1,Zimbabwe,Kanpur,1996-03-06,1996,3,6,won,40,Defended,lost,1st
+31,Out,0,25,0,Pakistan,Bangalore,1996-03-09,1996,3,9,won,39,Defended,won,1st
+65,Out,2,34,1,Sri Lanka,Kolkata,1996-03-13,1996,3,13,lost,0,Defended,won,2nd
+28,Out,0,19,0,Sri Lanka,Singapore,1996-04-03,1996,4,3,won,12,Defended,won,1st
+100,Out,0,18,0,Pakistan,Singapore,1996-04-05,1996,4,5,lost,8,Chased,lost,1st
+1,Out,1,46,0,Pakistan,Sharjah,1996-04-12,1996,4,12,lost,38,Defended,won,2nd
+2,Out,0,40,1,South Africa,Sharjah,1996-04-14,1996,4,14,lost,80,Defended,lost,2nd
+118,Out,2,40,0,Pakistan,Sharjah,1996-04-15,1996,4,15,won,28,Defended,won,1st
+17,Out,0,0,0,South Africa,Sharjah,1996-04-17,1996,4,17,lost,5,Chased,won,1st
+57,Out,0,51,0,South Africa,Sharjah,1996-04-19,1996,4,19,lost,38,Defended,lost,2nd
+30,Out,0,44,1,England,The Oval,1996-05-23,1996,5,23,n/r,0,Defended,lost,2nd
+6,Out,0,15,1,England,Leeds,1996-05-25,1996,5,25,lost,6,Chased,lost,1st
+1,Out,0,22,0,England,Manchester,1996-05-26,1996,5,26,lost,4,Chased,won,1st
+110,Out,1,29,0,Sri Lanka,Colombo (RPS),1996-08-28,1996,8,28,lost,9,Chased,won,1st
+40,Out,0,20,1,Zimbabwe,Colombo (SSC),1996-09-01,1996,9,1,won,7,Chased,won,2nd
+7,Out,0,38,1,Australia,Colombo (SSC),1996-09-06,1996,9,6,lost,3,Chased,lost,1st
+89,Not Out,0,12,1,Pakistan,Toronto,1996-09-16,1996,9,16,won,8,Chased,won,2nd
+20,Out,1,35,0,Pakistan,Toronto,1996-09-17,1996,9,17,lost,2,Chased,lost,1st
+2,Out,0,17,2,Pakistan,Toronto,1996-09-18,1996,9,18,won,55,Defended,won,1st
+3,Out,1,22,0,Pakistan,Toronto,1996-09-21,1996,9,21,lost,97,Defended,won,2nd
+23,Out,0,0,0,Pakistan,Toronto,1996-09-23,1996,9,23,lost,52,Defended,lost,2nd
+11,Out,0,28,0,South Africa,Hyderabad (Deccan),1996-10-17,1996,10,17,lost,47,Defended,lost,2nd
+88,Out,1,45,2,Australia,Bangalore,1996-10-21,1996,10,21,won,2,Chased,lost,2nd
+64,Out,0,22,0,South Africa,Jaipur,1996-10-23,1996,10,23,lost,27,Defended,won,2nd
+28,Out,0,13,1,South Africa,Rajkot,1996-10-29,1996,10,29,lost,5,Chased,won,1st
+62,Out,0,0,0,Australia,Mohali,1996-11-03,1996,11,3,won,5,Defended,lost,1st
+67,Out,0,0,0,South Africa,Mumbai,1996-11-06,1996,11,6,won,35,Defended,won,1st
+114,Out,0,0,0,South Africa,Mumbai,1996-12-14,1996,12,14,won,74,Defended,won,1st
+0,Out,0,0,1,South Africa,Bloemfontein,1997-01-23,1997,1,23,lost,39,Defended,lost,2nd
+6,Out,0,22,0,Zimbabwe,Paarl,1997-01-27,1997,1,27,tied,0,Defended,lost,2nd
+1,Out,0,0,0,South Africa,Port Elizabeth,1997-02-02,1997,2,2,lost,6,Chased,won,1st
+14,Out,0,17,0,South Africa,East London,1997-02-04,1997,2,4,lost,6,Chased,won,1st
+41,Out,0,11,0,Zimbabwe,Centurion,1997-02-07,1997,2,7,lost,3,Chased,won,1st
+104,Out,0,16,0,Zimbabwe,Benoni,1997-02-09,1997,2,9,won,6,Chased,won,2nd
+32,Out,0,0,0,South Africa,Durban,1997-02-12,1997,2,12,n/r,0,Defended,won,1st
+45,Out,1,19,0,South Africa,Durban,1997-02-13,1997,2,13,lost,17,Defended,lost,2nd
+13,Out,0,0,0,Zimbabwe,Bulawayo,1997-02-15,1997,2,15,lost,8,Chased,lost,1st
+44,Out,0,11,0,West Indies,Port of Spain,1997-04-26,1997,4,26,lost,8,Chased,won,1st
+65,Not Out,0,4,0,West Indies,Port of Spain,1997-04-27,1997,4,27,won,10,Chased,won,2nd
+9,Out,1,13,0,West Indies,Kingstown,1997-04-30,1997,4,30,lost,18,Defended,won,2nd
+1,Out,0,22,0,West Indies,Bridgetown,1997-05-03,1997,5,3,lost,10,Chased,lost,1st
+117,Out,0,35,0,New Zealand,Bangalore,1997-05-14,1997,5,14,won,8,Chased,lost,2nd
+2,Out,0,13,1,Sri Lanka,Mumbai,1997-05-17,1997,5,17,lost,5,Chased,won,1st
+4,Out,2,61,0,Pakistan,Chennai,1997-05-21,1997,5,21,lost,35,Defended,lost,2nd
+21,Out,0,6,0,Sri Lanka,Colombo (RPS),1997-07-18,1997,7,18,lost,6,Chased,lost,1st
+0,Out,0,0,0,Pakistan,Colombo (SSC),1997-07-20,1997,7,20,n/r,0,Defended,won,2nd
+28,Out,1,18,0,Bangladesh,Colombo (SSC),1997-07-24,1997,7,24,won,9,Chased,won,2nd
+53,Out,0,20,0,Sri Lanka,Colombo (RPS),1997-07-26,1997,7,26,lost,8,Chased,won,1st
+27,Out,0,28,0,Sri Lanka,Colombo (RPS),1997-08-17,1997,8,17,lost,2,Defended,won,2nd
+6,Out,0,0,1,Sri Lanka,Colombo (RPS),1997-08-20,1997,8,20,lost,7,Chased,lost,1st
+27,Out,0,0,0,Sri Lanka,Colombo (SSC),1997-08-23,1997,8,23,n/r,0,Defended,lost,1st
+39,Out,1,22,2,Sri Lanka,Colombo (SSC),1997-08-24,1997,8,24,lost,9,Defended,won,2nd
+17,Out,0,13,0,Pakistan,Toronto,1997-09-13,1997,9,13,won,20,Defended,lost,1st
+25,Not Out,0,0,0,Pakistan,Toronto,1997-09-14,1997,9,14,won,7,Chased,lost,2nd
+0,Out,0,17,0,Pakistan,Toronto,1997-09-17,1997,9,17,n/r,0,Defended,won,2nd
+0,Out,0,0,2,Pakistan,Toronto,1997-09-18,1997,9,18,won,34,Defended,lost,1st
+6,Out,0,0,1,Pakistan,Toronto,1997-09-20,1997,9,20,won,7,Chased,won,2nd
+51,Out,0,0,2,Pakistan,Toronto,1997-09-21,1997,9,21,lost,5,Chased,lost,1st
+2,Out,0,11,2,Pakistan,Hyderabad (Sind),1997-09-28,1997,9,28,lost,5,Chased,won,1st
+21,Out,0,7,0,Pakistan,Karachi,1997-09-30,1997,9,30,won,4,Chased,lost,2nd
+7,Out,0,0,1,Pakistan,Lahore,1997-10-02,1997,10,2,lost,9,Chased,lost,1st
+91,Out,0,24,1,England,Sharjah,1997-12-11,1997,12,11,lost,7,Defended,won,2nd
+3,Out,0,0,0,Pakistan,Sharjah,1997-12-14,1997,12,14,lost,4,Chased,won,1st
+1,Out,0,17,0,West Indies,Sharjah,1997-12-16,1997,12,16,lost,41,Defended,won,2nd
+82,Not Out,0,0,0,Sri Lanka,Guwahati,1997-12-22,1997,12,22,won,7,Chased,won,2nd
+0,Out,0,0,0,Sri Lanka,Indore,1997-12-25,1997,12,25,n/r,0,Defended,lost,2nd
+6,Out,0,7,0,Sri Lanka,Margao,1997-12-28,1997,12,28,lost,5,Chased,won,1st
+54,Out,0,13,2,Bangladesh,Dhaka,1998-01-10,1998,1,10,won,4,Chased,won,2nd
+67,Out,1,24,4,Pakistan,Dhaka,1998-01-11,1998,1,11,won,18,Defended,lost,1st
+95,Out,3,45,0,Pakistan,Dhaka,1998-01-14,1998,1,14,won,8,Chased,lost,2nd
+1,Out,0,17,0,Pakistan,Dhaka,1998-01-16,1998,1,16,lost,6,Chased,won,1st
+41,Out,1,49,0,Pakistan,Dhaka,1998-01-18,1998,1,18,won,3,Chased,won,2nd
+8,Out,5,32,1,Australia,Kochi,1998-04-01,1998,4,1,won,41,Defended,won,1st
+5,Out,1,36,0,Zimbabwe,Vadodara,1998-04-05,1998,4,5,won,13,Defended,lost,1st
+100,Out,0,19,0,Australia,Kanpur,1998-04-07,1998,4,7,won,6,Chased,lost,2nd
+1,Out,0,20,0,Zimbabwe,Cuttack,1998-04-09,1998,4,9,won,32,Defended,lost,1st
+15,Out,0,13,1,Australia,Delhi,1998-04-14,1998,4,14,lost,4,Chased,won,1st
+40,Out,0,13,0,New Zealand,Sharjah,1998-04-17,1998,4,17,won,15,Defended,won,1st
+80,Out,0,21,0,Australia,Sharjah,1998-04-19,1998,4,19,lost,58,Defended,lost,2nd
+38,Out,1,28,0,New Zealand,Sharjah,1998-04-20,1998,4,20,lost,4,Chased,won,1st
+143,Out,1,27,0,Australia,Sharjah,1998-04-22,1998,4,22,lost,26,Defended,lost,2nd
+134,Out,0,12,0,Australia,Sharjah,1998-04-24,1998,4,24,won,6,Chased,won,2nd
+33,Out,2,8,0,Bangladesh,Mumbai,1998-05-25,1998,5,25,won,5,Chased,lost,2nd
+18,Out,0,34,0,Kenya,Gwalior,1998-05-28,1998,5,28,lost,69,Defended,lost,2nd
+100,Not Out,0,4,0,Kenya,Kolkata,1998-05-31,1998,5,31,won,9,Chased,lost,2nd
+65,Out,0,17,0,Sri Lanka,Colombo (RPS),1998-06-19,1998,6,19,won,8,Chased,lost,2nd
+53,Out,1,32,0,New Zealand,Colombo (RPS),1998-06-23,1998,6,23,n/r,0,Defended,won,2nd
+17,Out,0,0,1,Sri Lanka,Colombo (SSC),1998-07-01,1998,7,1,lost,8,Defended,won,2nd
+0,Out,0,0,1,New Zealand,Colombo (SSC),1998-07-03,1998,7,3,n/r,0,Defended,lost,2nd
+128,Out,0,13,0,Sri Lanka,Colombo (RPS),1998-07-07,1998,7,7,won,6,Defended,won,1st
+77,Out,0,0,0,Pakistan,Toronto,1998-09-20,1998,9,20,lost,5,Chased,won,1st
+127,Not Out,0,0,1,Zimbabwe,Bulawayo,1998-09-26,1998,9,26,won,8,Chased,won,2nd
+29,Out,0,11,0,Zimbabwe,Bulawayo,1998-09-27,1998,9,27,won,8,Chased,won,2nd
+2,Out,0,30,0,Zimbabwe,Harare,1998-09-30,1998,9,30,lost,37,Defended,won,2nd
+141,Out,4,38,1,Australia,Dhaka,1998-10-28,1998,10,28,won,44,Defended,lost,1st
+8,Out,2,29,1,West Indies,Dhaka,1998-10-31,1998,10,31,lost,6,Chased,won,1st
+3,Out,0,17,0,Sri Lanka,Sharjah,1998-11-06,1998,11,6,won,3,Chased,won,2nd
+118,Not Out,0,4,0,Zimbabwe,Sharjah,1998-11-08,1998,11,8,won,7,Chased,won,2nd
+18,Out,0,0,0,Sri Lanka,Sharjah,1998-11-09,1998,11,9,won,81,Defended,lost,1st
+11,Out,1,14,0,Zimbabwe,Sharjah,1998-11-11,1998,11,11,lost,13,Defended,won,2nd
+124,Not Out,1,16,1,Zimbabwe,Sharjah,1998-11-13,1998,11,13,won,10,Chased,won,2nd
+0,Out,1,34,0,New Zealand,Taupo,1999-01-09,1999,1,9,lost,5,Chased,won,1st
+23,Out,3,34,0,New Zealand,Napier,1999-01-12,1999,1,12,won,2,Chased,won,2nd
+45,Out,0,0,0,New Zealand,Wellington,1999-01-14,1999,1,14,n/r,0,Defended,lost,1st
+5,Out,1,29,0,New Zealand,Auckland,1999-01-16,1999,1,16,won,5,Chased,won,2nd
+28,Out,0,22,0,South Africa,Hove,1999-05-15,1999,5,15,lost,4,Chased,won,1st
+140,Not Out,0,23,0,Kenya,Bristol,1999-05-23,1999,5,23,won,94,Defended,lost,1st
+2,Out,0,0,1,Sri Lanka,Taunton,1999-05-26,1999,5,26,won,157,Defended,lost,1st
+22,Out,0,0,0,England,Birmingham,1999-05-29,1999,5,29,won,63,Defended,lost,1st
+0,Out,0,4,0,Australia,The Oval,1999-06-04,1999,6,4,lost,77,Defended,won,2nd
+45,Out,0,0,1,Pakistan,Manchester,1999-06-08,1999,6,8,won,47,Defended,won,1st
+16,Out,0,14,0,New Zealand,Nottingham,1999-06-12,1999,6,12,lost,5,Chased,won,1st
+14,Out,0,0,0,Australia,Galle,1999-08-23,1999,8,23,lost,8,Chased,won,1st
+37,Out,0,0,0,Sri Lanka,Colombo (RPS),1999-08-25,1999,8,25,lost,7,Chased,won,1st
+120,Out,0,0,0,Sri Lanka,Colombo (SSC),1999-08-29,1999,8,29,won,23,Defended,lost,1st
+85,Out,0,0,0,Zimbabwe,Singapore,1999-09-04,1999,9,4,won,115,Defended,lost,1st
+40,Out,0,0,0,West Indies,Singapore,1999-09-07,1999,9,7,n/r,0,Defended,won,1st
+0,Out,0,0,0,West Indies,Singapore,1999-09-08,1999,9,8,lost,4,Chased,lost,1st
+32,Out,0,18,1,New Zealand,Rajkot,1999-11-05,1999,11,5,lost,43,Defended,lost,2nd
+186,Not Out,0,0,1,New Zealand,Hyderabad (Deccan),1999-11-08,1999,11,8,won,174,Defended,won,1st
+1,Out,0,0,0,New Zealand,Gwalior,1999-11-11,1999,11,11,won,14,Defended,won,1st
+2,Out,0,0,0,New Zealand,Guwahati,1999-11-14,1999,11,14,lost,48,Defended,won,2nd
+0,Out,0,0,0,New Zealand,Delhi,1999-11-17,1999,11,17,won,7,Chased,lost,2nd
+13,Out,0,0,0,Pakistan,Brisbane,2000-01-10,2000,1,10,lost,2,Chased,won,1st
+12,Out,0,23,2,Australia,Melbourne,2000-01-12,2000,1,12,lost,28,Defended,lost,2nd
+1,Out,0,0,0,Australia,Sydney,2000-01-14,2000,1,14,lost,5,Chased,won,1st
+93,Out,0,6,1,Pakistan,Hobart,2000-01-21,2000,1,21,lost,32,Defended,won,2nd
+41,Out,0,0,1,Pakistan,Adelaide,2000-01-25,2000,1,25,won,48,Defended,won,1st
+18,Out,1,48,0,Australia,Adelaide,2000-01-26,2000,1,26,lost,152,Defended,lost,2nd
+17,Out,0,0,2,Pakistan,Perth,2000-01-28,2000,1,28,lost,104,Defended,lost,2nd
+3,Out,0,0,1,Australia,Perth,2000-01-30,2000,1,30,lost,4,Chased,won,1st
+26,Out,0,44,0,South Africa,Kochi,2000-03-09,2000,3,9,won,3,Chased,lost,2nd
+21,Out,1,39,0,South Africa,Jamshedpur,2000-03-12,2000,3,12,won,6,Chased,lost,2nd
+12,Out,4,56,1,South Africa,Faridabad,2000-03-15,2000,3,15,lost,2,Chased,lost,1st
+122,Out,0,43,0,South Africa,Vadodara,2000-03-17,2000,3,17,won,4,Chased,lost,2nd
+93,Out,1,31,0,South Africa,Nagpur,2000-03-19,2000,3,19,lost,10,Defended,won,2nd
+5,Out,0,32,0,South Africa,Sharjah,2000-03-22,2000,3,22,lost,10,Chased,won,1st
+11,Out,0,21,0,Pakistan,Sharjah,2000-03-23,2000,3,23,won,5,Chased,lost,2nd
+10,Out,0,11,0,Pakistan,Sharjah,2000-03-26,2000,3,26,lost,98,Defended,lost,2nd
+39,Out,0,3,0,South Africa,Sharjah,2000-03-27,2000,3,27,lost,6,Chased,won,1st
+36,Out,2,24,0,Bangladesh,Dhaka,2000-05-30,2000,5,30,won,8,Chased,lost,2nd
+93,Out,2,44,0,Sri Lanka,Dhaka,2000-06-01,2000,6,1,lost,71,Defended,lost,2nd
+25,Out,0,41,1,Pakistan,Dhaka,2000-06-03,2000,6,3,lost,44,Defended,lost,2nd
+25,Out,0,25,0,Kenya,Nairobi (Gym),2000-10-03,2000,10,3,won,8,Chased,won,2nd
+38,Out,1,31,0,Australia,Nairobi (Gym),2000-10-07,2000,10,7,won,20,Defended,lost,1st
+39,Out,2,32,1,South Africa,Nairobi (Gym),2000-10-13,2000,10,13,won,95,Defended,won,1st
+69,Out,1,38,0,New Zealand,Nairobi (Gym),2000-10-15,2000,10,15,lost,4,Chased,lost,1st
+101,Out,0,22,0,Sri Lanka,Sharjah,2000-10-20,2000,10,20,lost,5,Chased,won,1st
+8,Out,1,46,0,Zimbabwe,Sharjah,2000-10-22,2000,10,22,won,13,Defended,lost,1st
+4,Out,0,16,0,Zimbabwe,Sharjah,2000-10-26,2000,10,26,won,3,Chased,won,2nd
+61,Out,0,21,0,Sri Lanka,Sharjah,2000-10-27,2000,10,27,lost,68,Defended,won,2nd
+5,Out,1,28,0,Sri Lanka,Sharjah,2000-10-29,2000,10,29,lost,245,Defended,lost,2nd
+44,Out,1,22,1,Zimbabwe,Cuttack,2000-12-02,2000,12,2,won,3,Chased,lost,2nd
+8,Out,1,53,0,Zimbabwe,Ahmedabad,2000-12-05,2000,12,5,won,61,Defended,won,1st
+146,Out,1,35,0,Zimbabwe,Jodhpur,2000-12-08,2000,12,8,lost,1,Chased,won,1st
+62,Out,0,0,0,Zimbabwe,Kanpur,2000-12-11,2000,12,11,won,9,Chased,lost,2nd
+27,Out,0,0,0,Zimbabwe,Rajkot,2000-12-14,2000,12,14,won,39,Defended,lost,1st
+35,Out,0,0,0,Australia,Bangalore,2001-03-25,2001,3,25,won,60,Defended,won,1st
+32,Out,0,59,0,Australia,Pune,2001-03-28,2001,3,28,lost,8,Chased,won,1st
+139,Out,0,0,1,Australia,Indore,2001-03-31,2001,3,31,won,118,Defended,lost,1st
+62,Out,0,12,1,Australia,Visakhapatnam,2001-04-03,2001,4,3,lost,93,Defended,lost,2nd
+12,Out,3,35,0,Australia,Margao,2001-04-06,2001,4,6,lost,4,Chased,won,1st
+70,Not Out,0,0,0,Zimbabwe,Harare,2001-06-24,2001,6,24,won,9,Chased,won,2nd
+9,Out,0,0,0,Zimbabwe,Bulawayo,2001-06-27,2001,6,27,won,4,Chased,won,2nd
+81,Not Out,0,14,0,West Indies,Bulawayo,2001-06-30,2001,6,30,won,6,Chased,won,2nd
+122,Not Out,0,11,0,West Indies,Harare,2001-07-04,2001,7,4,won,6,Chased,won,2nd
+0,Out,0,0,0,West Indies,Harare,2001-07-07,2001,7,7,lost,16,Defended,won,2nd
+101,Out,0,51,0,South Africa,Johannesburg,2001-10-05,2001,10,5,lost,6,Chased,lost,1st
+38,Out,0,21,0,South Africa,Centurion,2001-10-10,2001,10,10,won,41,Defended,won,1st
+0,Out,0,0,0,Kenya,Bloemfontein,2001-10-12,2001,10,12,won,10,Chased,lost,2nd
+3,Out,0,0,1,Kenya,Port Elizabeth,2001-10-17,2001,10,17,lost,70,Defended,lost,2nd
+37,Out,0,0,0,South Africa,East London,2001-10-19,2001,10,19,lost,46,Defended,lost,2nd
+146,Out,0,0,0,Kenya,Paarl,2001-10-24,2001,10,24,won,186,Defended,won,1st
+17,Out,2,27,0,South Africa,Durban,2001-10-26,2001,10,26,lost,6,Chased,lost,1st
+36,Out,0,23,1,England,Kolkata,2002-01-19,2002,1,19,won,22,Defended,won,1st
+45,Out,0,35,0,England,Cuttack,2002-01-22,2002,1,22,lost,16,Defended,won,2nd
+68,Out,0,8,1,England,Chennai,2002-01-25,2002,1,25,won,4,Chased,lost,2nd
+87,Not Out,0,17,1,England,Kanpur,2002-01-28,2002,1,28,won,8,Chased,lost,2nd
+18,Out,1,45,0,England,Delhi,2002-01-31,2002,1,31,lost,2,Defended,won,2nd
+12,Out,1,30,0,England,Mumbai,2002-02-03,2002,2,3,lost,5,Defended,lost,2nd
+34,Not Out,0,0,0,West Indies,Bridgetown,2002-05-29,2002,5,29,won,7,Chased,won,2nd
+65,Out,1,20,0,West Indies,Port of Spain,2002-06-02,2002,6,2,won,56,Defended,won,1st
+1,Out,0,0,0,England,Lord's,2002-06-29,2002,6,29,won,6,Chased,lost,2nd
+49,Out,0,0,0,Sri Lanka,The Oval,2002-06-30,2002,6,30,won,4,Chased,lost,2nd
+105,Not Out,0,0,0,England,Chester-le-Street,2002-07-04,2002,7,4,n/r,0,Defended,won,1st
+19,Out,0,18,0,Sri Lanka,Birmingham,2002-07-06,2002,7,6,won,4,Chased,won,2nd
+36,Out,0,9,0,England,The Oval,2002-07-09,2002,7,9,lost,64,Defended,won,2nd
+113,Out,0,0,0,Sri Lanka,Bristol,2002-07-11,2002,7,11,won,63,Defended,won,1st
+14,Out,0,0,0,England,Lord's,2002-07-13,2002,7,13,won,2,Chased,lost,2nd
+7,Out,2,41,0,Zimbabwe,Colombo (RPS),2002-09-14,2002,9,14,won,14,Defended,won,1st
+9,Not Out,1,13,0,England,Colombo (RPS),2002-09-22,2002,9,22,won,8,Chased,lost,2nd
+16,Out,0,32,0,South Africa,Colombo (RPS),2002-09-25,2002,9,25,won,10,Defended,won,1st
+0,Out,1,36,1,Sri Lanka,Colombo (RPS),2002-09-29,2002,9,29,n/r,0,Defended,lost,2nd
+7,Not Out,0,36,0,Sri Lanka,Colombo (RPS),2002-09-30,2002,9,30,n/r,0,Defended,lost,2nd
+0,Out,0,0,0,New Zealand,Wellington,2003-01-08,2003,1,8,won,2,Chased,lost,2nd
+1,Out,0,0,0,New Zealand,Auckland,2003-01-11,2003,1,11,won,1,Chased,won,2nd
+1,Out,0,0,0,New Zealand,Hamilton,2003-01-14,2003,1,14,lost,6,Chased,lost,1st
+52,Out,0,9,0,Netherlands,Paarl,2003-02-12,2003,2,12,won,68,Defended,won,1st
+36,Out,0,0,0,Australia,Centurion,2003-02-15,2003,2,15,lost,9,Chased,won,1st
+81,Out,0,0,0,Zimbabwe,Harare,2003-02-19,2003,2,19,won,83,Defended,lost,1st
+152,Out,0,0,0,Namibia,Pietermaritzburg,2003-02-23,2003,2,23,won,181,Defended,lost,1st
+50,Out,0,0,1,England,Durban,2003-02-26,2003,2,26,won,82,Defended,won,1st
+98,Out,0,0,0,Pakistan,Centurion,2003-03-01,2003,3,1,won,6,Chased,lost,2nd
+5,Out,0,0,1,Kenya,Cape Town,2003-03-07,2003,3,7,won,6,Chased,lost,2nd
+97,Out,0,0,1,Sri Lanka,Johannesburg,2003-03-10,2003,3,10,won,183,Defended,lost,1st
+15,Out,0,20,1,New Zealand,Centurion,2003-03-14,2003,3,14,won,7,Chased,won,2nd
+83,Out,2,28,0,Kenya,Durban,2003-03-20,2003,3,20,won,91,Defended,won,1st
+4,Out,0,20,0,Australia,Johannesburg,2003-03-23,2003,3,23,lost,125,Defended,won,2nd
+48,Not Out,0,0,0,New Zealand,Chennai,2003-10-23,2003,10,23,n/r,0,Defended,won,1st
+100,Out,1,39,0,Australia,Gwalior,2003-10-26,2003,10,26,won,37,Defended,won,1st
+68,Out,0,21,0,Australia,Mumbai,2003-11-01,2003,11,1,lost,77,Defended,lost,2nd
+14,Out,0,25,0,New Zealand,Cuttack,2003-11-06,2003,11,6,lost,4,Chased,won,1st
+89,Out,0,0,0,Australia,Bangalore,2003-11-12,2003,11,12,lost,61,Defended,lost,2nd
+102,Out,0,40,0,New Zealand,Hyderabad (Deccan),2003-11-15,2003,11,15,won,145,Defended,won,1st
+45,Out,0,0,0,Australia,Kolkata,2003-11-18,2003,11,18,lost,37,Defended,lost,2nd
+63,Out,0,0,1,Australia,Melbourne,2004-01-09,2004,1,9,lost,18,Defended,lost,2nd
+44,Out,0,0,0,Zimbabwe,Hobart,2004-01-14,2004,1,14,won,7,Chased,lost,2nd
+86,Out,0,0,0,Australia,Brisbane,2004-01-18,2004,1,18,won,19,Defended,won,1st
+5,Out,0,0,0,Australia,Perth,2004-02-01,2004,2,1,lost,5,Chased,won,1st
+3,Out,0,0,0,Zimbabwe,Perth,2004-02-03,2004,2,3,won,4,Chased,lost,2nd
+8,Out,0,0,1,Australia,Melbourne,2004-02-06,2004,2,6,lost,7,Chased,won,1st
+27,Out,1,60,0,Australia,Sydney,2004-02-08,2004,2,8,lost,208,Defended,lost,2nd
+28,Out,0,34,0,Pakistan,Karachi,2004-03-13,2004,3,13,won,5,Defended,lost,1st
+141,Out,0,45,0,Pakistan,Rawalpindi,2004-03-16,2004,3,16,lost,12,Defended,lost,2nd
+0,Out,1,31,0,Pakistan,Peshawar,2004-03-19,2004,3,19,lost,4,Chased,lost,1st
+7,Out,1,48,0,Pakistan,Lahore,2004-03-21,2004,3,21,won,5,Chased,lost,2nd
+37,Out,0,27,1,Pakistan,Lahore,2004-03-24,2004,3,24,won,40,Defended,lost,1st
+18,Out,3,21,0,U.A.E.,Dambulla,2004-07-16,2004,7,16,won,116,Defended,won,1st
+11,Out,0,0,0,Sri Lanka,Dambulla,2004-07-18,2004,7,18,lost,12,Defended,lost,2nd
+82,Not Out,3,35,0,Bangladesh,Colombo (SSC),2004-07-21,2004,7,21,won,8,Chased,won,2nd
+78,Out,3,28,0,Pakistan,Colombo (RPS),2004-07-25,2004,7,25,lost,59,Defended,lost,2nd
+18,Out,1,23,1,Sri Lanka,Colombo (RPS),2004-07-27,2004,7,27,won,4,Defended,won,1st
+74,Out,2,40,0,Sri Lanka,Colombo (RPS),2004-08-01,2004,8,1,lost,25,Defended,lost,2nd
+16,Out,0,15,0,Pakistan,Kolkata,2004-11-13,2004,11,13,lost,6,Chased,won,1st
+19,Out,0,0,0,Bangladesh,Chittagong,2004-12-23,2004,12,23,won,11,Defended,lost,1st
+47,Out,4,54,0,Bangladesh,Dhaka,2004-12-27,2004,12,27,won,91,Defended,won,1st
+4,Out,5,50,1,Pakistan,Kochi,2005-04-02,2005,4,2,won,87,Defended,won,1st
+2,Out,0,44,0,Pakistan,Visakhapatnam,2005-04-05,2005,4,5,won,58,Defended,won,1st
+6,Out,0,25,1,Pakistan,Jamshedpur,2005-04-09,2005,4,9,lost,106,Defended,lost,2nd
+123,Out,1,36,1,Pakistan,Ahmedabad,2005-04-12,2005,4,12,lost,3,Chased,won,1st
+1,Out,1,20,0,Pakistan,Kanpur,2005-04-15,2005,4,15,lost,5,Chased,won,1st
+9,Out,0,24,0,Pakistan,Delhi,2005-04-17,2005,4,17,lost,159,Defended,lost,2nd
+93,Out,0,0,0,Sri Lanka,Nagpur,2005-10-25,2005,10,25,won,152,Defended,won,1st
+67,Not Out,0,0,1,Sri Lanka,Mohali,2005-10-28,2005,10,28,won,8,Chased,won,2nd
+2,Out,0,10,0,Sri Lanka,Jaipur,2005-10-31,2005,10,31,won,6,Chased,lost,2nd
+11,Out,0,0,1,Sri Lanka,Pune,2005-11-03,2005,11,3,won,4,Chased,won,2nd
+19,Out,0,0,1,Sri Lanka,Rajkot,2005-11-09,2005,11,9,won,7,Chased,won,2nd
+39,Out,0,0,0,Sri Lanka,Vadodara,2005-11-12,2005,11,12,won,5,Chased,lost,2nd
+2,Out,1,43,0,South Africa,Hyderabad (Deccan),2005-11-16,2005,11,16,lost,5,Chased,lost,1st
+2,Out,0,0,0,South Africa,Bangalore,2005-11-19,2005,11,19,won,6,Chased,won,2nd
+2,Out,0,0,0,South Africa,Kolkata,2005-11-25,2005,11,25,lost,10,Chased,lost,1st
+30,Out,0,0,0,South Africa,Mumbai,2005-11-28,2005,11,28,won,5,Chased,won,2nd
+100,Out,0,0,0,Pakistan,Peshawar,2006-02-06,2006,2,6,lost,7,Defended,lost,1st
+42,Out,0,45,0,Pakistan,Rawalpindi,2006-02-11,2006,2,11,won,7,Chased,lost,2nd
+95,Out,1,52,0,Pakistan,Lahore,2006-02-13,2006,2,13,won,5,Chased,won,2nd
+0,Out,1,27,0,Pakistan,Multan,2006-02-16,2006,2,16,won,5,Chased,won,2nd
+2,Not Out,0,0,0,Sri Lanka,Colombo (SSC),2006-08-18,2006,8,18,n/r,0,Defended,won,1st
+141,Not Out,0,0,0,West Indies,Kuala Lumpur,2006-09-14,2006,9,14,lost,29,Defended,won,1st
+12,Out,0,0,1,Australia,Kuala Lumpur,2006-09-16,2006,9,16,n/r,0,Defended,lost,2nd
+65,Out,0,0,0,West Indies,Kuala Lumpur,2006-09-20,2006,9,20,won,16,Defended,won,1st
+4,Out,0,0,0,Australia,Kuala Lumpur,2006-09-22,2006,9,22,lost,18,Defended,lost,2nd
+35,Out,0,0,1,England,Jaipur,2006-10-15,2006,10,15,won,4,Chased,won,2nd
+29,Out,0,0,0,West Indies,Ahmedabad,2006-10-26,2006,10,26,lost,3,Chased,lost,1st
+10,Out,0,0,1,Australia,Mohali,2006-10-29,2006,10,29,lost,6,Chased,won,1st
+35,Out,0,33,1,South Africa,Durban,2006-11-22,2006,11,22,lost,157,Defended,lost,2nd
+2,Out,0,13,2,South Africa,Cape Town,2006-11-26,2006,11,26,lost,106,Defended,lost,2nd
+1,Out,1,46,0,South Africa,Port Elizabeth,2006-11-29,2006,11,29,lost,80,Defended,lost,2nd
+55,Out,0,0,0,South Africa,Centurion,2006-12-03,2006,12,3,lost,9,Chased,lost,1st
+31,Out,1,54,0,West Indies,Nagpur,2007-01-21,2007,1,21,won,14,Defended,lost,1st
+0,Out,2,25,0,West Indies,Cuttack,2007-01-24,2007,1,24,won,20,Defended,won,1st
+60,Out,0,33,0,West Indies,Chennai,2007-01-27,2007,1,27,lost,3,Chased,lost,1st
+100,Not Out,0,0,0,West Indies,Vadodara,2007-01-31,2007,1,31,won,160,Defended,lost,1st
+0,Out,0,0,0,Sri Lanka,Kolkata,2007-02-08,2007,2,8,n/r,0,Defended,won,2nd
+54,Out,1,41,1,Sri Lanka,Rajkot,2007-02-11,2007,2,11,lost,5,Defended,won,2nd
+1,Out,0,33,1,Sri Lanka,Margao,2007-02-14,2007,2,14,won,5,Chased,lost,2nd
+7,Out,0,8,0,Bangladesh,Port of Spain,2007-03-17,2007,3,17,lost,5,Chased,won,1st
+57,Not Out,1,1,0,Bermuda,Port of Spain,2007-03-19,2007,3,19,won,257,Defended,lost,1st
+0,Out,1,40,0,Sri Lanka,Port of Spain,2007-03-23,2007,3,23,lost,69,Defended,won,2nd
+4,Out,1,24,0,Ireland,Belfast,2007-06-23,2007,6,23,won,9,Chased,won,2nd
+99,Out,0,0,1,South Africa,Belfast,2007-06-26,2007,6,26,lost,4,Chased,lost,1st
+93,Out,0,10,0,South Africa,Belfast,2007-06-29,2007,6,29,won,6,Chased,won,2nd
+8,Out,2,10,0,South Africa,Belfast,2007-07-01,2007,7,1,won,6,Chased,won,2nd
+17,Out,0,29,0,England,Southampton,2007-08-21,2007,8,21,lost,104,Defended,won,2nd
+99,Out,0,0,0,England,Bristol,2007-08-24,2007,8,24,won,9,Defended,won,1st
+8,Out,0,0,0,England,Birmingham,2007-08-27,2007,8,27,lost,42,Defended,won,2nd
+55,Out,0,4,0,England,Manchester,2007-08-30,2007,8,30,lost,3,Chased,won,1st
+71,Out,0,35,0,England,Leeds,2007-09-02,2007,9,2,won,38,Defended,lost,1st
+94,Out,0,12,0,England,The Oval,2007-09-05,2007,9,5,won,2,Chased,lost,2nd
+30,Out,0,0,0,England,Lord's,2007-09-08,2007,9,8,lost,7,Chased,won,1st
+0,Out,0,0,1,Australia,Bangalore,2007-09-29,2007,9,29,n/r,0,Defended,lost,2nd
+16,Out,0,22,1,Australia,Kochi,2007-10-02,2007,10,2,lost,84,Defended,won,2nd
+43,Out,0,22,0,Australia,Hyderabad (Deccan),2007-10-05,2007,10,5,lost,47,Defended,lost,2nd
+79,Out,0,0,0,Australia,Chandigarh,2007-10-08,2007,10,8,won,8,Defended,won,1st
+47,Out,0,11,0,Australia,Vadodara,2007-10-11,2007,10,11,lost,9,Chased,won,1st
+72,Out,0,20,1,Australia,Nagpur,2007-10-14,2007,10,14,lost,18,Defended,lost,2nd
+21,Out,0,0,1,Australia,Mumbai,2007-10-17,2007,10,17,won,2,Chased,lost,2nd
+4,Out,2,32,0,Pakistan,Guwahati,2007-11-05,2007,11,5,won,5,Chased,lost,2nd
+99,Out,0,11,0,Pakistan,Mohali,2007-11-08,2007,11,8,lost,4,Chased,won,1st
+29,Out,0,11,0,Pakistan,Kanpur,2007-11-11,2007,11,11,won,46,Defended,lost,1st
+97,Out,0,0,0,Pakistan,Gwalior,2007-11-15,2007,11,15,won,6,Chased,lost,2nd
+30,Out,0,0,0,Pakistan,Jaipur,2007-11-18,2007,11,18,lost,31,Defended,won,2nd
+10,Out,0,0,0,Australia,Brisbane,2008-02-03,2008,2,3,n/r,0,Defended,won,1st
+35,Out,0,0,0,Sri Lanka,Brisbane,2008-02-05,2008,2,5,n/r,0,Defended,won,1st
+44,Out,0,6,2,Australia,Melbourne,2008-02-10,2008,2,10,won,5,Chased,lost,2nd
+32,Out,0,15,0,Sri Lanka,Canberra,2008-02-12,2008,2,12,lost,8,Chased,lost,1st
+5,Out,0,0,0,Australia,Adelaide,2008-02-17,2008,2,17,lost,50,Defended,lost,2nd
+0,Out,0,0,0,Sri Lanka,Adelaide,2008-02-19,2008,2,19,won,2,Chased,lost,2nd
+2,Out,0,0,0,Australia,Sydney,2008-02-24,2008,2,24,lost,18,Defended,lost,2nd
+63,Out,0,0,0,Sri Lanka,Hobart,2008-02-26,2008,2,26,won,7,Chased,won,2nd
+117,Not Out,0,0,0,Australia,Sydney,2008-03-02,2008,3,2,won,6,Chased,lost,2nd
+91,Out,0,0,0,Australia,Brisbane,2008-03-04,2008,3,4,won,9,Defended,won,1st
+11,Out,0,0,2,England,Bangalore,2008-11-23,2008,11,23,won,19,Defended,lost,1st
+50,Out,0,0,2,England,Cuttack,2008-11-26,2008,11,26,won,6,Chased,won,2nd
+5,Out,0,0,0,Sri Lanka,Dambulla,2009-01-28,2009,1,28,won,6,Chased,won,2nd
+6,Out,0,0,1,Sri Lanka,Colombo (RPS),2009-01-31,2009,1,31,won,15,Defended,won,1st
+7,Out,0,11,1,Sri Lanka,Colombo (RPS),2009-02-03,2009,2,3,won,147,Defended,won,1st
+20,Out,0,0,1,New Zealand,Napier,2009-03-03,2009,3,3,won,53,Defended,won,1st
+61,Out,0,0,0,New Zealand,Wellington,2009-03-06,2009,3,6,n/r,0,Defended,won,1st
+163,Not Out,0,0,0,New Zealand,Christchurch,2009-03-08,2009,3,8,won,58,Defended,lost,1st
+46,Out,0,0,0,New Zealand,Colombo (RPS),2009-09-11,2009,9,11,won,6,Chased,lost,2nd
+27,Out,0,0,0,Sri Lanka,Colombo (RPS),2009-09-12,2009,9,12,lost,139,Defended,lost,2nd
+138,Out,0,0,0,Sri Lanka,Colombo (RPS),2009-09-14,2009,9,14,won,46,Defended,won,1st
+8,Out,0,0,0,Pakistan,Centurion,2009-09-26,2009,9,26,lost,54,Defended,lost,2nd
+0,Out,0,0,1,Australia,Centurion,2009-09-28,2009,9,28,n/r,0,Defended,lost,2nd
+14,Out,0,0,0,Australia,Vadodara,2009-10-25,2009,10,25,lost,4,Defended,lost,2nd
+4,Out,0,0,1,Australia,Nagpur,2009-10-28,2009,10,28,won,99,Defended,lost,1st
+32,Out,0,0,0,Australia,Delhi,2009-10-31,2009,10,31,won,6,Chased,lost,2nd
+40,Out,0,0,0,Australia,Mohali,2009-11-02,2009,11,2,lost,24,Defended,won,2nd
+175,Out,0,0,1,Australia,Hyderabad (Deccan),2009-11-05,2009,11,5,lost,3,Defended,lost,2nd
+10,Out,0,11,0,Australia,Guwahati,2009-11-08,2009,11,8,lost,6,Chased,won,1st
+69,Out,0,0,1,Sri Lanka,Rajkot,2009-12-15,2009,12,15,won,3,Defended,lost,1st
+43,Out,0,0,0,Sri Lanka,Nagpur,2009-12-18,2009,12,18,lost,3,Chased,won,1st
+96,Not Out,0,0,0,Sri Lanka,Cuttack,2009-12-21,2009,12,21,won,7,Chased,lost,2nd
+8,Out,0,0,1,Sri Lanka,Kolkata,2009-12-24,2009,12,24,won,7,Chased,lost,2nd
+4,Out,0,0,0,South Africa,Jaipur,2010-02-21,2010,2,21,won,1,Defended,lost,1st
+200,Not Out,0,0,0,South Africa,Gwalior,2010-02-24,2010,2,24,won,153,Defended,won,1st
+7,Out,0,0,0,South Africa,Durban,2011-01-12,2011,1,12,lost,135,Defended,lost,2nd
+24,Out,0,0,0,South Africa,Johannesburg,2011-01-15,2011,1,15,won,1,Defended,won,1st
+28,Out,0,0,0,Bangladesh,Dhaka,2011-02-19,2011,2,19,won,87,Defended,lost,1st
+120,Out,0,0,0,England,Bangalore,2011-02-27,2011,2,27,tied,0,Defended,won,1st
+38,Out,0,0,0,Ireland,Bangalore,2011-03-06,2011,3,6,won,5,Chased,won,2nd
+27,Out,0,0,0,Netherlands,Delhi,2011-03-09,2011,3,9,won,5,Chased,lost,2nd
+111,Out,0,0,1,South Africa,Nagpur,2011-03-12,2011,3,12,lost,3,Chased,won,1st
+2,Out,0,0,0,West Indies,Chennai,2011-03-20,2011,3,20,won,80,Defended,won,1st
+53,Out,0,9,0,Australia,Ahmedabad,2011-03-24,2011,3,24,won,5,Chased,lost,2nd
+85,Out,0,0,1,Pakistan,Mohali,2011-03-30,2011,3,30,won,29,Defended,won,1st
+18,Out,0,12,0,Sri Lanka,Mumbai,2011-04-02,2011,4,2,won,6,Chased,lost,2nd
+2,Out,0,0,0,Australia,Melbourne,2012-02-05,2012,2,5,lost,65,Defended,won,2nd
+48,Out,0,0,1,Sri Lanka,Perth,2012-02-08,2012,2,8,won,4,Chased,lost,2nd
+15,Out,0,0,0,Sri Lanka,Adelaide,2012-02-14,2012,2,14,tied,0,Defended,lost,2nd
+3,Out,0,0,1,Australia,Brisbane,2012-02-19,2012,2,19,lost,110,Defended,lost,2nd
+22,Out,0,0,1,Sri Lanka,Brisbane,2012-02-21,2012,2,21,lost,51,Defended,lost,2nd
+14,Out,0,0,0,Australia,Sydney,2012-02-26,2012,2,26,lost,87,Defended,lost,2nd
+39,Out,0,0,0,Sri Lanka,Hobart,2012-02-28,2012,2,28,won,7,Chased,won,2nd
+6,Out,0,0,1,Sri Lanka,Dhaka,2012-03-13,2012,3,13,won,50,Defended,lost,1st
+114,Out,0,0,0,Bangladesh,Dhaka,2012-03-16,2012,3,16,lost,5,Chased,lost,1st
+52,Out,0,12,0,Pakistan,Dhaka,2012-03-18,2012,3,18,won,6,Chased,lost,2nd
