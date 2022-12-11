@@ -14,7 +14,7 @@
     "body-parser": "^1.19.0",
     "data-forge": "^1.7.3",
     "data-forge-fs": "0.0.7",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "morgan": "^1.9.1"
   },
   "devDependencies": {
